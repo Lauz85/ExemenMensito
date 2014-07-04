@@ -16,7 +16,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 @EnableWebMvc
 @Configuration
-@ComponentScan("com.flamenco.web")
+@ComponentScan("com.flamenco.examenmensito")
 public class WebAppConfig extends WebMvcConfigurerAdapter{
     //Aqui van mas configuraciones como los interceptores de sesion 
 
